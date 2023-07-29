@@ -9,5 +9,5 @@
  * @author YINESH
  */
 public class b1 {
-    
+    String branch = "b1";
 }
