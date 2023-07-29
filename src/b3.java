@@ -10,4 +10,5 @@
  */
 public class b3 {
     String branch ="b3"; //Variable branch equals to 3
+    int a=10;
 }
